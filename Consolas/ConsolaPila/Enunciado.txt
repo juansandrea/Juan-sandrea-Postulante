@@ -1,0 +1,6 @@
+﻿Se cuenta con la clase Pila.cs que implementa una pila de string
+
+Se necesita ahora implementar una pila, pero de int. 
+¿Se le ocurre alguna modificación al código para generalizar esta clase y poder utilizarla también con enteros? 
+
+Por favor, no modifique el archivo Pila.cs, cree otro.

@@ -1,0 +1,15 @@
+﻿1.¿Le parece una buena solución? 
+
+No
+
+2.¿Qué ventajas le encuentra?
+
+es una solución rápida y sencilla agregar una clase nueva no requiere mucho trabajo y está utilizando la misma idea de la clase anterior.
+
+3.¿Que desventajas? 
+
+No se aplican los principios SOLID, lo que no permite que este código sea monolitico y poco escalable. Una vez se creen  nuevos porcentas se tendrá que proceder a crear nuevas clases (si se sigue la misma idea) lo cual volverá al codigo confuso y de poca calidad
+
+4¿Se le ocurre alguna solución alternativa?
+
+Sí, para volver el código escalable y flexible se puede tomar el número de porcentaje, convertirlo en variable y una vez se agreguen nuevos porcentajes, simplemente se flexibiliza esta variable. Se pueden hacer métodos dentros de clase la propia clase, escenificando cada país. Se pueden delegar nuevas funciones para calcular el monto, se puede trabajar todo bajo la clase factura... Se pueden hacer varias soluciones distintas. Es importante reutilizar el código y no "hardcodear".

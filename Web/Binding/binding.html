@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/angularjs/1.6.4/angular.min.js"></script>
+    <head>
+    
+    <body>
+        <p>
+            <h4>
+            El fin de este ejercicio es que, mediante instrucciones <i>AngularJS</i> a medida que se ingresa texto en el <i>input</i> tambi&eacute;n vaya apareciendo en el <i>header</i> que está continuaci&oacute;n.
+            </h4>
+        </p>
+        
+        <div ng-app="">
+ 
+            <p>Ingrese un texto en la siguiente caja:</p>
+            <p>Texto : <input type="text" ng-model="name" placeholder="Ingrese texto aqu&iacute;"></p>  
+            <h1>El texto es: {{name}}</h1>                                                      
+
+        </div>
+
+    </body>
+</html>

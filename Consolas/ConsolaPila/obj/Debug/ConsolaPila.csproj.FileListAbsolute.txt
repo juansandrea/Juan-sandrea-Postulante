@@ -1,0 +1,12 @@
+C:\BitBucket\PruebaIngreso\Consolas\ConsolaPila\bin\Debug\ConsolaPila.exe
+C:\BitBucket\PruebaIngreso\Consolas\ConsolaPila\bin\Debug\ConsolaPila.pdb
+C:\BitBucket\PruebaIngreso\Consolas\ConsolaPila\obj\Debug\ConsolaPila.csprojAssemblyReference.cache
+C:\BitBucket\PruebaIngreso\Consolas\ConsolaPila\obj\Debug\ConsolaPila.csproj.CoreCompileInputs.cache
+C:\BitBucket\PruebaIngreso\Consolas\ConsolaPila\obj\Debug\ConsolaPila.exe
+C:\BitBucket\PruebaIngreso\Consolas\ConsolaPila\obj\Debug\ConsolaPila.pdb
+C:\Users\juans\Desktop\PruebaIngreso\Consolas\ConsolaPila\bin\Debug\ConsolaPila.exe
+C:\Users\juans\Desktop\PruebaIngreso\Consolas\ConsolaPila\bin\Debug\ConsolaPila.pdb
+C:\Users\juans\Desktop\PruebaIngreso\Consolas\ConsolaPila\obj\Debug\ConsolaPila.csprojAssemblyReference.cache
+C:\Users\juans\Desktop\PruebaIngreso\Consolas\ConsolaPila\obj\Debug\ConsolaPila.csproj.CoreCompileInputs.cache
+C:\Users\juans\Desktop\PruebaIngreso\Consolas\ConsolaPila\obj\Debug\ConsolaPila.exe
+C:\Users\juans\Desktop\PruebaIngreso\Consolas\ConsolaPila\obj\Debug\ConsolaPila.pdb

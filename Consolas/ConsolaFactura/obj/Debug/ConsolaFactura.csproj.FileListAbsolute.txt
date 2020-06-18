@@ -1,0 +1,11 @@
+C:\BitBucket\PruebaIngreso\Consolas\ConsolaFactura\bin\Debug\ConsolaFactura.exe
+C:\BitBucket\PruebaIngreso\Consolas\ConsolaFactura\bin\Debug\ConsolaFactura.pdb
+C:\BitBucket\PruebaIngreso\Consolas\ConsolaFactura\obj\Debug\ConsolaFactura.csprojAssemblyReference.cache
+C:\BitBucket\PruebaIngreso\Consolas\ConsolaFactura\obj\Debug\ConsolaFactura.csproj.CoreCompileInputs.cache
+C:\BitBucket\PruebaIngreso\Consolas\ConsolaFactura\obj\Debug\ConsolaFactura.exe
+C:\BitBucket\PruebaIngreso\Consolas\ConsolaFactura\obj\Debug\ConsolaFactura.pdb
+C:\Users\juans\Desktop\PruebaIngreso\Consolas\ConsolaFactura\bin\Debug\ConsolaFactura.exe
+C:\Users\juans\Desktop\PruebaIngreso\Consolas\ConsolaFactura\bin\Debug\ConsolaFactura.pdb
+C:\Users\juans\Desktop\PruebaIngreso\Consolas\ConsolaFactura\obj\Debug\ConsolaFactura.csproj.CoreCompileInputs.cache
+C:\Users\juans\Desktop\PruebaIngreso\Consolas\ConsolaFactura\obj\Debug\ConsolaFactura.exe
+C:\Users\juans\Desktop\PruebaIngreso\Consolas\ConsolaFactura\obj\Debug\ConsolaFactura.pdb

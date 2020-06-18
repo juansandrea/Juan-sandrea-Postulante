@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/angularjs/1.6.4/angular.min.js"></script>
+    </head>
+    
+    <body>
+        <p>
+            <h4>
+            El fin de este ejercicio es, mediante instrucciones <i>AngularJS</i>:<br/> 
+            - Mostrar una lista de strings <i>(cadenas)</i>.<br/>
+            - Filtrar la lista mostrada seg&uacute;n los caracteres ingresados en el <i>input box</i>.
+            </h4>
+        </p>
+        
+        <div ng-app="myApp" ng-controller="namesCtrl">
+
+            <p>tip&eacute;e una o m&aacute;s letras:</p>
+
+            <p><input type="text" ng-model="test"></p>
+
+            <ul>
+                <li ng-repeat="nombre in nombres | filter:buscar nombre   ">
+                    <h2>{{nombre.nombre}}</h2>
+                    
+                </li>
+            </ul>
+
+        </div>
+        
+        <p>La lista solo muestra los nombres con caracteres coincidentes.</p>
+        
+        
+
+</html>

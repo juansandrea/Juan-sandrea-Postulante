@@ -1,0 +1,11 @@
+﻿Este proyecto tiene la clase Factura.cs, En la que se puede apreciar que la comisión para una factura es del 1%.
+
+Aparece un nuevo requerimiento indicando que la comisión para facturas en Argentina se mantiene, 
+pero para las facturas de Colombia pasa a ser un 2,5% y en el futuro posiblemente aparezcan distintos porcentajes para otros países. 
+
+Un programador resuelve el problema agregando esta la clase FacturaColombia.cs para el caso de Colombia. 
+
+- ¿Le parece una buena solución? 
+- ¿Qué ventajas le encuentra? 
+- ¿Y qué Desventajas? 
+- ¿Se le ocurre alguna solución alternativa?

@@ -1,0 +1,3 @@
+﻿habiendo analizando el arreglo de pila anterior decidi realiazar 
+un arreglo de pila esta vez en int un poco mas complejo donde la 
+consola daria a conocer mas datos y esta vez podra utilizar enteros.
